@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.Latihan7PAM" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+    <style name="Theme.Latihan7PAM" parent="Base.Theme.Latihan7PAM">
+    </style>
+</resources>
